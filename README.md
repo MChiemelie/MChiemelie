@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Chiemelie</h1>
-<h3 align="center">A passionate FullStack JavaScript Developer, SEO Strategist and Technical Writer from Anambra State, Nigeria.</h3>
+<h1 align="center">Hi 👋 guys, I'm Chiemelie</h1>
+<h3 align="center">A passionate FullStack JavaScript Developer, SEO Strategist and Technical Writer.</h3>
 
 ---
 
