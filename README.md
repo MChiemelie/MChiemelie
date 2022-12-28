@@ -32,16 +32,16 @@ alt="chiemeliejm" /></a> </p>
 
 ---
 
- <h1 align="center">Completed Projects </h1>
-    <p> Here are a list of my proundest projects</p>
+ <h1 align="center">Completed Projects 💪🚀💯</h1>
+    <p> Here are a list of my proudest projects</p>
   
-  - 🔭 [Spatulaa](https://github.com/MChiemelie/spatulaa) is a web scrapping application that running on Node.js;
+  - 🔍 [Spatulaa](https://github.com/MChiemelie/spatulaa) is a web scrapping application that running on Node.js;
   
-  - [SoftBite](https://softbite.vercel.app/) is a eatery resturant where users can buy their meals online and even have it delievered to them.
+  - 🏪[SoftBite](https://softbite.vercel.app/) is a eatery resturant where users can buy their meals online and even have it delievered to them.
   
-   <h1 align="center">Current Projects </h1>
+   <h1 align="center">Current Projects🔬💻 </h1>
 
-- 🔭 I’m stilling working on [SoftBite](https://mchiemelie.github.io/softbite/) to make it the very best it could be.
+- 🏪 I’m stilling working on [SoftBite](https://mchiemelie.github.io/softbite/) to make it the very best it could be.
   
 - [Youontop](https://github.com/MChiemelie/youontop) is the world next most used SEO tool.
     😄 Just joking. But it would most likely be.
@@ -50,11 +50,11 @@ alt="chiemeliejm" /></a> </p>
 
 - ✨ I'm perfecting my **HTML5, CSS3, and Vanilla JavaScript** skills, everyday. 
   
-- I am proud to share my [LinkedIn CSS Badge](https://ng.linkedin.com/in/melikamchiemelie?trk=profile-badge), and I'm into writing shorter, simpler JavaScript as possible.
+- 🏆I am proud to share my [LinkedIn CSS Badge🏅](https://ng.linkedin.com/in/melikamchiemelie?trk=profile-badge), and I'm into writing shorter, simpler JavaScript as possible.
 
-- 🌱 I’m currently learning **React.js, Next.js, Node.js, and Express.js.**
+- 🌱💻📖 I’m currently learning **React.js, Next.js, Node.js, and Express.js.**
   
-- After that, I would be really learn **TypeScript, NextUI**. Learning never ends in a developer's world.
+- 🖥📗📘After that, I would be really learn **TypeScript, NextUI**. Learning never ends in a developer's world.
 
 - 👯 I’m looking to collaborate on **[Picbot](https://github.com/segunajibola/picbot)**. A website built by **[Segun Ajibola](https://github.com/segunajibola/picbot)** that generates images when keywords are searched.
 
