@@ -70,9 +70,7 @@ alt="chiemeliejm" /></a> </p>
 
 - ⚡ Fun fact **The More You Fuck Around, The More You gonna Find Out!**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 
 <h3 align="left">Connect with me:</h3>
