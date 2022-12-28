@@ -87,7 +87,7 @@ alt="chiemeliejm" /></a> </p>
 
 - 👨‍💻 All of my projects are available on  [My Repo](https://github.com/MChiemelie?tab=repositories)
 
-- 💬 Feel share any issues you're having with **HTML5, CSS3, Semantic HTML, Responsive Web Design, SEO best practices** for your next multi-billion dollar To-Do application that runs on Node only.
+- 💬 Feel free to share any issues you maybe having with **HTML5, CSS3, Semantic HTML, Responsive Web Design, SEO best practices** for your next multi-billion dollar To-Do application that runs on Node only.
 
 - 📄 Know about my experiences and education [View My Resume](https://drive.google.com/file/d/1pPGA2RqOp7Cn2B4RjdUppWlsxLHNxw3W/view?usp=sharing) for free!
   
