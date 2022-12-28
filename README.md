@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 guys, I'm Chiemelie,</h1>
 <h3 align="center">A passionate FullStack JavaScript Developer, SEO Strategist.</h3>
-<p align="center">I am currently looking out for an Internship. </p>
+<p align="center">I am actively looking out for an Internship.</p>
 
 ---
 
