@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋 guys, I'm Chiemelie,</h1>
-<h3 align="center">A passionate FullStack JavaScript Developer, SEO Strategist.</h3>
+<!-- <div align="center">
+  <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
+</div> -->
 <p align="center">I am currently looking out for an Internship. </p>
 
 ---
