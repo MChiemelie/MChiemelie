@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋 guys, I'm Chiemelie,</h1>
 <div align="center">
   <img src="https://github.com/MChiemelie/MChiemelie/blob/main/githubheader.gif" alt="header"/>
 </div>
