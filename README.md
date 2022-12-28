@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 guys, I'm Chiemelie,</h1>
-<!-- <div align="center">
-  <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
-</div> -->
+<div align="center">
+  <img src="https://github.com/MChiemelie/MChiemelie/blob/main/githubheader.gif" alt="header"/>
+</div>
 <p align="center">I am currently looking out for an Internship. </p>
 
 ---
