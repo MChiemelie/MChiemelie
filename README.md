@@ -10,7 +10,7 @@ alt="chiemeliejm" /></a> </p>
 
 ---
 
-<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=mchiemelie&theme=gruvbox"><img src="https://github-profile-trophy.vercel.app/?username=mchiemelie&theme=gruvbox" alt="mchiemelie" /></a> </p>
+<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=mchiemelie"><img src="https://github-profile-trophy.vercel.app/?username=mchiemelie&theme=gitdimmed&row=2&column=3" alt="mchiemelie" /></a> </p>
 
 ---
 
