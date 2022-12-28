@@ -33,51 +33,51 @@ alt="chiemeliejm" /></a> </p>
 
 ---
 
- <h1 align="center">Completed Projects 💪🚀💯</h1>
-    <p> Here are a list of my proudest projects</p>
+ <h1 align="center">Completed Projects 💯🚀</h1>
+    <p> My proudest 💪 projects</p>
   
-  - 🔍 [Spatulaa](https://github.com/MChiemelie/spatulaa) is a web scrapping application that runs on Node.
+  - 🪒 [Spatulaa](https://github.com/MChiemelie/spatulaa) is a web scrapping application that runs on Node.
   
-  - 🏪 [SoftBite](https://softbite.vercel.app/) is a eatery resturant application where users can buy their meals online and even have it delievered to them. The client side of the app is done!
+  - 🏪🥘 [SoftBite](https://softbite.vercel.app/) is a eatery resturant application where users can buy their meals online and even have it delievered to them. The client side of the app is done!
   
-   <h1 align="center">Current Projects🔬💻 </h1>
+   <h1 align="center">Current Projects.🔬💻 </h1>
 
-- 🏪 I’m stilling working on [SoftBite](https://mchiemelie.github.io/softbite/) to make it the very best it could be. I am working on the server side, backend of this application including adding authentication, a database, a payment API, and so much more!
+- 🏪🥘 I’m stilling working on [SoftBite](https://mchiemelie.github.io/softbite/) to make it the very best it could be. I am working on the server side, backend of this application including adding authentication, a database, a payment API, and so much more!
   
-- [Youontop](https://github.com/MChiemelie/youontop) is the world next most used SEO tool.
-    😄 Just joking. But it would most likely be. It displays a website's rank for certain keywords.
+- 🧗🏽‍♀️[Youontop](https://github.com/MChiemelie/youontop) is the world next most used SEO tool.
+    😁 Just joking. But it would most likely be. It displays a website's rank for certain keywords.
 
- <h1 align="center">Technical Skills</h1>
+ <h1 align="center">Technical Skills 🪛🔧🔨🤹🏾‍♂️</h1>
   
-- Search Engine Optimization.
+- Search Engine Optimization 🚁✈️🚀🛰️.
   
-- Open Sourcing.
+- Open Sourcing 🔓💲.
   
-- Web Accessibilty, Semantic HTML, HTML5 best practicer of the year 🏆.
+- Web Accessibilty 🏁, Semantic HTML🏳🏴, HTML5 best practicer of the year 🏆.
   
-- Responisive Web Design.
+- Responisive Web Design 📱💻🖥️. 
   
-- Data analysis.
+- Data analysis 📈📊. 
   
--  Research.
+- Research ♻️🔍.
   
--  Creativity.
+- Creativity 🪄🧪. 
 
-- Analytic Problem Solving. 
+- Problem Solving 🧞‍♂️.  
 
-- [Conservational](https://en.wiktionary.org/wiki/conversational). 
+- [Conservational 💬](https://en.wiktionary.org/wiki/conversational). 
 
 
 
- <h1 align="center">My Tech Stack</h1>
+ <h1 align="center">My Tech Stack 📚 and Tools🛠️</h1>
 
 - ✨ I'm perfecting my **HTML5, CSS3, and Vanilla JavaScript** skills, everyday. 
   
 - 🏆I am proud to share my [LinkedIn CSS Badge🏅](https://ng.linkedin.com/in/melikamchiemelie?trk=profile-badge), and I'm into writing shorter, simpler JavaScript as possible.
 
-- I always have expereience a great experience working with **Firebase**. 
+- ❤‍🔥 I always have a great experience working with **Firebase 💛🧡**. 
 
-- I also have good knowlegde of **RDBMSs**, **MySQL** precisely.
+- 🤍 I also have good knowlegde of **RDBMSs**, **MySQL** precisely.
   
 - 🌱💻📖 I’m currently learning **React.js, Next.js, Node.js, and Express.js**.
   
