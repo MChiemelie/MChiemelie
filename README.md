@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋 guys, I'm Chiemelie,</h1>
 <h3 align="center">A passionate FullStack JavaScript Developer, SEO Strategist.</h3>
+<p align="center">I am currently looking out for an Internship. </p>
 
 ---
 
@@ -35,16 +36,38 @@ alt="chiemeliejm" /></a> </p>
  <h1 align="center">Completed Projects 💪🚀💯</h1>
     <p> Here are a list of my proudest projects</p>
   
-  - 🔍 [Spatulaa](https://github.com/MChiemelie/spatulaa) is a web scrapping application that running on Node.js;
+  - 🔍 [Spatulaa](https://github.com/MChiemelie/spatulaa) is a web scrapping application that runs on Node.
   
-  - 🏪[SoftBite](https://softbite.vercel.app/) is a eatery resturant where users can buy their meals online and even have it delievered to them.
+  - 🏪 [SoftBite](https://softbite.vercel.app/) is a eatery resturant application where users can buy their meals online and even have it delievered to them. The client side of the app is done!
   
    <h1 align="center">Current Projects🔬💻 </h1>
 
-- 🏪 I’m stilling working on [SoftBite](https://mchiemelie.github.io/softbite/) to make it the very best it could be.
+- 🏪 I’m stilling working on [SoftBite](https://mchiemelie.github.io/softbite/) to make it the very best it could be. I am working on the server side, backend of this application including adding authentication, a database, a payment API, and so much more!
   
 - [Youontop](https://github.com/MChiemelie/youontop) is the world next most used SEO tool.
-    😄 Just joking. But it would most likely be.
+    😄 Just joking. But it would most likely be. It displays a website's rank for certain keywords.
+
+ <h1 align="center">Technical Skills</h1>
+  
+- Search Engine Optimization.
+  
+- Open Sourcing.
+  
+- Web Accessibilty, Semantic HTML, HTML5 best practicer of the year 🏆.
+  
+- Responisive Web Design.
+  
+- Data analysis.
+  
+-  Research.
+  
+-  Creativity.
+
+- Analytic Problem Solving. 
+
+- [Conservational](https://en.wiktionary.org/wiki/conversational). 
+
+
 
  <h1 align="center">My Tech Stack</h1>
 
@@ -52,21 +75,25 @@ alt="chiemeliejm" /></a> </p>
   
 - 🏆I am proud to share my [LinkedIn CSS Badge🏅](https://ng.linkedin.com/in/melikamchiemelie?trk=profile-badge), and I'm into writing shorter, simpler JavaScript as possible.
 
-- 🌱💻📖 I’m currently learning **React.js, Next.js, Node.js, and Express.js.**
+- I always have expereience a great experience working with **Firebase**. 
+
+- I also have good knowlegde of **RDBMSs**, **MySQL** precisely.
   
-- 🖥📗📘After that, I would be really learn **TypeScript, NextUI**. Learning never ends in a developer's world.
+- 🌱💻📖 I’m currently learning **React.js, Next.js, Node.js, and Express.js**.
+  
+- 🖥📗📘After that, I would be really learn **TypeScript, NextUI, MongoDB**. Learning never ends in a developer's world.
 
 - 👯 I’m looking to collaborate on **[Picbot](https://github.com/segunajibola/picbot)**. A website built by **[Segun Ajibola](https://github.com/segunajibola/picbot)** that generates images when keywords are searched.
 
 - 👨‍💻 All of my projects are available on  [My Repo](https://github.com/MChiemelie?tab=repositories)
 
-- 💬 Feel share any issues you're having with **HTML5, CSS3, Semantic HTML, Responsive Web Design, SEO best pratices for your next multi-billion dollar To-Do application that runs on Node**.
+- 💬 Feel share any issues you're having with **HTML5, CSS3, Semantic HTML, Responsive Web Design, SEO best practices** for your next multi-billion dollar To-Do application that runs on Node only.
 
-- 📄 Know about my experiences [View My Resume](https://drive.google.com/file/d/1pPGA2RqOp7Cn2B4RjdUppWlsxLHNxw3W/view?usp=sharing)
+- 📄 Know about my experiences and education [View My Resume](https://drive.google.com/file/d/1pPGA2RqOp7Cn2B4RjdUppWlsxLHNxw3W/view?usp=sharing) for free!
   
-- You can reach via my email, **melikamchukwemelie@gmail.com** or any of my social media below.
+- You can reach me via my email, **melikamchukwemelie@gmail.com** or any of my social media below.
   
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/His/Him
 
 - ⚡ Fun fact **The More You Fuck Around, The More You gonna Find Out!**
 
