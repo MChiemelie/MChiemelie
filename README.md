@@ -1,7 +1,6 @@
 <div align="center">
-  ![Fancy logo](/img/darkheader.gif#gh-dark-mode-only)
-  ![Fancy logo](/img/lightheader.gif#gh-light-mode-only)
-  <img src="https://github.com/MChiemelie/MChiemelie/blob/main/header.gif" alt="header"/>
+  <img src="https://github.com/MChiemelie/MChiemelie/blob/main/img/lightheader.gif#gh-light-mode-only" alt="header"/>
+  <img src="https://github.com/MChiemelie/MChiemelie/blob/main/img/darkheader.gif#gh-dark-mode-only" alt="header"/>
 </div>
 <p align="center">I am currently looking out for an Internship. </p>
 
@@ -36,10 +35,10 @@ alt="chiemeliejm" /></a> </p>
 
 ---
 
- <h1 align="center">Completed Projects 💪🚀💯</h1>
-    <p> Here are a list of my proudest projects</p>
+ <h1 align="center">Completed Projects 🚀💯</h1>
+    <p> Here are a list of my proudest💪 projects</p>
   
-  - 🔍 [Spatulaa](https://github.com/MChiemelie/spatulaa) is a web scrapping application that runs on Node.
+  -  [Spatulaa](https://github.com/MChiemelie/spatulaa) is a web scrapping application that runs on Node.
   
   - 🏪 [SoftBite](https://softbite.vercel.app/) is a eatery resturant application where users can buy their meals online and even have it delievered to them. The client side of the app is done!
   
