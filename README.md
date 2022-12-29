@@ -1,7 +1,7 @@
 <div align="center">
-  ![Fancy logo](/img/darkgithubheader.gif#gh-dark-mode-only)
-  ![Fancy logo](/img/lightgithubheader.gif#gh-light-mode-only)
-  <img src="https://github.com/MChiemelie/MChiemelie/blob/main/githubheader.gif" alt="header"/>
+  ![Fancy logo](/img/darkheader.gif#gh-dark-mode-only)
+  ![Fancy logo](/img/lightheader.gif#gh-light-mode-only)
+  <img src="https://github.com/MChiemelie/MChiemelie/blob/main/header.gif" alt="header"/>
 </div>
 <p align="center">I am currently looking out for an Internship. </p>
 
