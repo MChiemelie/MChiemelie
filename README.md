@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://github.com/MChiemelie/MChiemelie/blob/main/img/lightgithubheader.gif#gh-light-mode-only" alt="header"/>
-  <img src="https://github.com/MChiemelie/MChiemelie/blob/main/img/darkgithubheader.gif#gh-dark-mode-only" alt="header"/>
+  <img src="/img/lightgithubheader.gif#gh-light-mode-only" alt="header"/>
+  <img src="/img/darkgithubheader.gif#gh-dark-mode-only" alt="header"/>
 </div>
 <p align="center">I am currently looking out for an Internship. </p>
 
