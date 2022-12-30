@@ -38,7 +38,7 @@ alt="chiemeliejm" /></a> </p>
  <h1 align="center">Completed Projects 🚀💯</h1>
     <p> Here are a list of my proudest💪 projects</p>
   
-  -  [Spatulaa](https://github.com/MChiemelie/spatulaa) is a web scrapping application that runs on Node.
+  - 🪒 [Spatulaa](https://github.com/MChiemelie/spatulaa) is a web scrapping application that runs on Node.
   
   - 🏪 [SoftBite](https://softbite.vercel.app/) is a eatery resturant application where users can buy their meals online and even have it delievered to them. The client side of the app is done!
   
@@ -49,17 +49,17 @@ alt="chiemeliejm" /></a> </p>
 - [Youontop](https://github.com/MChiemelie/youontop) is the world next most used SEO tool.
     😄 Just joking. But it would most likely be. It displays a website's rank for certain keywords.
 
- <h1 align="center">Technical Skills</h1>
+ <h1 align="center">Technical🧑‍🔧 Skills🤹</h1>
   
-- Search Engine Optimization.
+- 🕵️🚀🚀Search Engine Optimization.
   
-- Open Sourcing.
+- 🔓Open Sourcing.
   
 - Web Accessibilty, Semantic HTML, HTML5 best practicer of the year 🏆.
   
-- Responisive Web Design.
+- 📱💻🖥️Responisive Web Design.
   
-- Data analysis.
+- 📈📉📊Data analysis.
   
 -  Research.
   
