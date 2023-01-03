@@ -2,7 +2,7 @@
   <img src="https://github.com/MChiemelie/MChiemelie/blob/main/img/lightheader.gif#gh-light-mode-only" alt="header"/>
   <img src="https://github.com/MChiemelie/MChiemelie/blob/main/img/darkheader.gif#gh-dark-mode-only" alt="header"/>
 </div>
-<p align="center">I am currently looking out for an Internship.</p>
+<p align="center">I am actively looking out for an Internship.</p>
 
 ---
 
