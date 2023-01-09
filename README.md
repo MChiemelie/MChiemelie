@@ -106,9 +106,7 @@ alt="chiemeliejm" /></a> </p>
 <p align="center">
 <a href="https://twitter.com/chiemeliejm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chiemeliejm" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/melikamchiemelie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melikamchiemelie" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17922859/chukwuemelie-melikam?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17922859/chukwuemelie-melikam?tab=profile" height="30" width="40" /></a>
 <a href="https://fb.com/chiemeliemelikamj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chiemeliemelikamj" height="30" width="40" /></a>
-<a href="https://medium.com/@chiemelie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chiemelie" height="30" width="40" /></a>
 </p>
 
 ----
