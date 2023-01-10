@@ -40,7 +40,7 @@ alt="chiemeliejm" /></a> </p>
   
   - 🪒 [Spatulaa](https://github.com/MChiemelie/spatulaa) is a web scrapping application that runs on Node.
   
-  - 🏪 [SoftBite](https://softbite.vercel.app/) is a eatery resturant application where users can buy their meals online and even have it delievered to them. The client side of the app is done!
+  - 🏪 [SoftBite](https://softbite.vercel.app/) is a food resturant application where users can buy their meals online and even have it delievered to them. The client side of the app is done!
   
    <h1 align="center">Current Projects🔬💻 </h1>
 
@@ -61,7 +61,7 @@ alt="chiemeliejm" /></a> </p>
   
 - 📈📉📊Data analysis.
   
--  ♻🔍🔎Research.
+-  ♻🔍Research.
   
 -  🤹‍♂️Creativity.
 
@@ -89,9 +89,9 @@ alt="chiemeliejm" /></a> </p>
 
 - 👨‍💻 All of my projects are available on  [My Repo](https://github.com/MChiemelie?tab=repositories)
 
-- 💬 Feel share any issues you're having with **HTML5, CSS3, Semantic HTML, Responsive Web Design, SEO best practices** for your next multi-billion dollar To-Do application that runs on Node only.
+- 💬 Feel share any issues you're having with **HTML5, CSS3, Semantic HTML, Responsive Web Design, SEO best practices** for your next multi-billion dollar To-Do application that only runs on Node.
 
-- 📄 Know about my experiences and education view [My Resume](https://drive.google.com/file/d/1pPGA2RqOp7Cn2B4RjdUppWlsxLHNxw3W/view?usp=sharing) for free!
+- 📄 If you want to know about my experiences and education view [My Resume](https://drive.google.com/file/d/1pPGA2RqOp7Cn2B4RjdUppWlsxLHNxw3W/view?usp=sharing) for free!
   
 - 📩You can reach me via my email, **melikamchukwemelie@gmail.com** or any of my social media below.
   
