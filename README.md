@@ -51,7 +51,7 @@ alt="chiemeliejm" /></a> </p>
 
  <h1 align="center">Technical Skills🤹</h1>
   
-- 🕵️🚀🚀Search Engine Optimization.
+- 🕵️🚀Search Engine Optimization.
   
 - 🔓Open Sourcing.
   
@@ -71,7 +71,7 @@ alt="chiemeliejm" /></a> </p>
 
 ----
 
- <h1 align="center">My Tech Stack </h1>
+ <h1 align="center">My Tech Stack 📚</h1>
 
 - ✨ I'm perfecting my **HTML5, CSS3, and Vanilla JavaScript** skills, everyday. 
   
