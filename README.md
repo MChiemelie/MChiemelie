@@ -36,7 +36,7 @@ alt="chiemeliejm" /></a> </p>
 ----
 
  <h1 align="center">Completed Projects 🚀💯</h1>
-    <p> Here are a list of my proudest💪 projects</p>
+    <p> A list of my proudest💪 projects</p>
   
   - 🪒 [Spatulaa](https://github.com/MChiemelie/spatulaa) is a web scrapping application that runs on Node.
   
@@ -95,9 +95,9 @@ alt="chiemeliejm" /></a> </p>
   
 - 📩You can reach me via my email, **melikamchukwemelie@gmail.com** or any of my social media below.
   
-- 👨 Pronouns: He/His/Him
+- 👨 Pronouns: He/His/Him.
 
-- ⚡ Favourite Quote 💭: **Strenght Grows In Moments You Think You Can't Go On, But You Keep Going Anyway😉💪**
+- ⚡ My favourite Quote 💭: **Strenght Grows In Moments You Think You Can't Go On, But You Keep Going Anyway😉💪.**
 
 
 ----
