@@ -2,8 +2,6 @@
   <img src="https://github.com/MChiemelie/MChiemelie/blob/main/img/lightheader.gif#gh-light-mode-only" alt="header"/>
   <img src="https://github.com/MChiemelie/MChiemelie/blob/main/img/darkheader.gif#gh-dark-mode-only" alt="header"/>
 </div>
-<p align="center">I am actively looking out 👀 for an Internship.</p>
-
 ---
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mchiemelie&label=Profile%20views&color=0e75b6&style=flat" alt="mchiemelie" /> </p>
