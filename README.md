@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="/banner.png" alt="banner"/>
+</p>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=40&duration=8000&pause=5000&color=FFFFFF&width=1000&height=100&lines=Hi+there!+%F0%9F%91%8B+I'm+Chiemelie%2C+a+Frontend+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 
 🚀 Passionate about crafting lightweight web applications that scale rapidly. My focus is on optimizing for search engines and social media bots, ensuring exceptional performance. I have a deep interest in creating visually appealing, user-friendly interfaces that deliver seamless and captivating user experiences. I approach design as code for the browser, translating it into an exceptional user interface. In a nutshell, I'm a **frontend developer**.
