@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Chiemelie, a Frontend Developer 👨‍💻
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=40&duration=8000&pause=5000&color=FFFFFF&width=1000&height=100&lines=Hi+there!+%F0%9F%91%8B+I'm+Chiemelie%2C+a+Frontend+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 
 🚀 Passionate about crafting lightweight web applications that scale rapidly. My focus is on optimizing for search engines and social media bots, ensuring exceptional performance. I have a deep interest in creating visually appealing, user-friendly interfaces that deliver seamless and captivating user experiences. I approach design as code for the browser, translating it into an exceptional user interface. In a nutshell, I'm a **frontend developer**.
 
@@ -10,12 +10,18 @@
 
 ---
 
-<p align="center" display="flex" justify="center">
+<p align="center" display="flex" justify="evenly">
   <a href="https://github-profile-trophy.vercel.app/?username=mchiemelie">
     <img src="https://github-profile-trophy.vercel.app/?username=mchiemelie&theme=gitdimmed&row=2&column=3" alt="mchiemelie" />
   </a>
+</p>
+<p align="center" display="flex" justify="evenly">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mchiemelie&theme=dark&hide_border=true" alt="mchiemelie" />
+</p>
+<p align="center" display="flex" justify="evenly">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mchiemelie&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="mchiemelie" />
+</p>
+<p align="center" display="flex" justify="evenly">
   <img src="https://github-readme-stats.vercel.app/api?username=mchiemelie&show_icons=true&locale=en&theme=dark&hide_border=true" alt="mchiemelie" />
 </p>
 
@@ -29,13 +35,13 @@
 
 ### Front-End Development 👨‍💻
 
-- React.js (_proficient_)
-- Next.js (_proficient_)
+- React.js
+- Next.js
 
 ### Programming Languages 📝
 
-- JavaScript (_proficient_)
-- TypeScript (_familiar_)
+- JavaScript
+- TypeScript
 
 ### Web Technologies 🌐
 
