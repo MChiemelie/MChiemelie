@@ -1,59 +1,85 @@
-<p align="center">
-  <img src="/banner.png" alt="banner"/>
-</p>
+<div align="center">
+<img src="./banner.png" alt="banner"/>
+</div>
 
-<h2 align="center">Technical Skills 🤹</h2>
+---
 
-<h3>Programming Languages 📝</h3>
+- Agentic Software Engineer focused on AI agents, automated programming, and intelligent systems
+- Law Student with interests in Technology Law, Privacy, and Regulation
+- Data Protection and Privacy Advocate passionate about digital rights
+- Building products that solve real-world problems through technology
+
+---
+
+## Tech Stack
+
+### Languages
 
 - JavaScript
 - TypeScript
-- Rust
 - Python
-- PHP
+- Rust
 
-<h3>Other Skills 🛠️</h3>
+### Frameworks & Libraries
 
-- RESTful APIs
-- Data Structures and Algorithms
-- Design Implementation
-- Responsive Web Design
-- Search Engine Optimization
-- Problem Solving
-- Testing and Debugging: Jest
-- Version Control: Git
+- Node.js
+- React
+- React Native
+- Next.js
+- Expo
+- Tauri
+- Jest
 
-<h2 align="center">Interpersonal Skills 🤝</h2>
+### Engineering
 
-- Collaboration
-- Communication
-- Leadership
-- Teaching
-- Time Management
-- Creativity
-- Multitasking
+- AI Agents & Agentic Workflows
+- LLM Applications & Prompt Engineering
+- REST APIs & Backend Systems
+- System Design & Architecture
+- Data Structures & Algorithms
+- Testing & Debugging
+- Git & Version Control
+- Responsive Web Development
+- Search Engine Optimization (SEO)
+- Cloud Deployment & CI/CD
+
+### Interests
+
+- Software Development (Web and Mobile)
+- Artificial Intelligence
+- Privacy & Data Protection
+- Legal Technology
+- Developer Experience
 
 ---
-![GitHub Stats](https://streak-stats.demolab.com?user=MChiemelie&theme=default&hide_border=true)
+
+## GitHub Activity
+
+  <div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MChiemelie&theme=dark&show_icons=true&hide_border=false&count_private=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=MChiemelie&theme=default&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
+    </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MChiemelie&theme=dark&hide_border=false" />
+      <img src="https://streak-stats.demolab.com?user=MChiemelie&theme=default&hide_border=false" alt="GitHub Streak" />
+    </picture>
+
+  </div>
+
 ---
 
+## Resume
 
-- 📄 To learn more about my experiences and education, you can view [My Resume](https://drive.google.com/file/d/1lbW_TBf8Si575s1YiIPYZis2zwdA1awM/view?usp=sharing) for free!
-
-- 📩 Feel free to reach me via email at **melikamchukwemelie@gmail.com** or connect with me on social media below.
+View my resume here:
+[Resume](https://drive.google.com/file/d/1lbW_TBf8Si575s1YiIPYZis2zwdA1awM/view?usp=sharing)
 
 ---
 
-<h2 align="center">Connect with Me ⛓️</h2>
+## Let's Connect
 
-<p align="center">
-  <a href="https://twitter.com/chiemeliejm" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chiemeliejm" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/melikamchiemelie" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melikamchiemelie" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/chiemeliemelikamj" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chiemeliemelikamj" height="30" width="40" />
-  </a>
-</p>
+- LinkedIn: https://linkedin.com/in/melikamchiemelie
+- X (Twitter): https://twitter.com/chiemeliejm
+- Email: [melikamchukwemelie@gmail.com](mailto:melikamchukwemelie@gmail.com)
+
+---
