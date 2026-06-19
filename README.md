@@ -34,7 +34,7 @@
 - Multitasking
 
 ---
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mchiemelie&theme=transparent&card_width=500&card_height=150)](https://git.io/streak-stats)
+![GitHub Stats](https://streak-stats.demolab.com?user=MChiemelie&theme=default&hide_border=true)
 ---
 
 
