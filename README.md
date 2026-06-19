@@ -34,6 +34,9 @@
 - Multitasking
 
 ---
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mchiemelie)](https://git.io/streak-stats)
+---
+
 
 - 📄 To learn more about my experiences and education, you can view [My Resume](https://drive.google.com/file/d/1lbW_TBf8Si575s1YiIPYZis2zwdA1awM/view?usp=sharing) for free!
 
